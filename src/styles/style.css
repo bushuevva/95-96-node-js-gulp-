@@ -1,0 +1,15 @@
+div {
+  font-size: 24pt;
+}
+div p {
+  text-decoration: underline;
+}
+div img {
+  width: 200px;
+}
+h1 {
+  text-align: center;
+}
+.logo {
+  display: flex;
+}
